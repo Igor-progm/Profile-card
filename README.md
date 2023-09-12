@@ -1,4 +1,4 @@
-# cards 
+# card
 
 Projeto 1 ---- Cartão de perfil 
     Esse projeto contém um card com informações básicas sobre mim.
